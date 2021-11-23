@@ -6,7 +6,7 @@
 #include <ctime>
 #include <Windows.h>
 #include <time.h>
-#include "C:\Users\user\source\repos\Projekt2\Projekt2\include\color.hpp"
+#include "C:\Users\user\source\repos\Projekt2\Projekt2\color.hpp"
 
 using namespace std;
 
